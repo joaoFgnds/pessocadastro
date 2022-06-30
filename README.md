@@ -1,1 +1,1 @@
-"# Projeto desenvolvido em aula para cadastrar pessoas utilizando bando de dados" 
+"# Projeto desenvolvido em aula para cadastrar pessoas utilizando banco de dados" 
