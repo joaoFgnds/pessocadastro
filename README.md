@@ -1,1 +1,1 @@
-"# STech-DEV2M211-CadastroPessoaJFDAO" 
+"# Projeto desenvolvido em aula para cadastrar pessoas utilizando bando de dados" 
